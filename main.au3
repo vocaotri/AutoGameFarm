@@ -2,7 +2,7 @@
 #include <lib\helper.au3>
 #include <FramChicken.au3>
 #include <SellEgg.au3>
-#include <getWater.au3>
+#include <GetWater.au3>
 
 HotKeySet("{ESC}", "Stop")
 
